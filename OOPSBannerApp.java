@@ -1,3 +1,4 @@
+// UC6 - Static Helper Methods Implementation
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
