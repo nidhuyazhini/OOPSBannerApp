@@ -1,4 +1,4 @@
-// UC6 - Static Helper Methods Implementation
+// UC7 - Inner Class Implementations
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
